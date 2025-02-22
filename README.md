@@ -13,10 +13,14 @@ The project aims to assist a pharmacy in managing its inventory, details of cust
 
 # Launch
 1. After successfully importing, start the project by typing the following in the web browser: localhost/PHARMACY/mainpage.php
-2. The Login Page for Admin opens up by default. Login as Admin by using:
+   ##
+       username: admin
+       Password: password
+   
+3. The Login Page for Admin opens up by default. Login as Admin by using:
 Username: admin
 Password: password   
-3. For Pharmacist Login, refer to the 'emplogin' table in the database. Example:
+4. For Pharmacist Login, refer to the 'emplogin' table in the database. Example:
 Username: varshini
 Password: pass7
 
