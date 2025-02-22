@@ -51,3 +51,9 @@ The system is developed for use by either the Admin or Pharmacists.
 * Access and update all customers’ details
 * Keep track of all sale transactions
 * Generate and view reports based on the data
+
+# Screenshots
+Admin Login Page
+![Image](https://github.com/user-attachments/assets/06b96d71-e8cf-43ea-8c0d-203f67411c7c) 
+
+
