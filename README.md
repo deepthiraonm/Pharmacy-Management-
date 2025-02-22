@@ -72,3 +72,36 @@ Pharmacist Login Page
 Pharmacist DashBoard
 ![Image](https://github.com/user-attachments/assets/8844753f-83fb-45a2-b649-1c3565f638bd) 
 
+# Database Architecture
+# MEDS: 
+Contains details regarding the list of all medicines, mainly their type, the quantity currently present in the store and their price.
+
+# SUPPLIERS: 
+Contains details regarding any of the drug suppliers who supply stock to the pharmacy.
+
+# PURCHASE: 
+Contains details regarding any stock purchased by the company. Purchasing a stock consists of placing an order for multiple medicines and multiple suppliers via a single purchase on an online platform on a date as specified by purchase date (based on date of delivery). It also contains the manufacturing and expiry dates for the purchased items.
+
+# EMPLOYEES: 
+Contains details regarding all employees, including Admin, Managers and Pharmacists.
+
+# CUSTOMERS: 
+Contains details of all customers for ease during sales transactions.
+
+# SALES: 
+Contains details regarding all sales made by the pharmacy. It keeps track of the sale invoice number, the customer ID of the customer, the employee ID of the employee who conducted the sales, the total amount of sale and the sale date and time.
+
+# SALES_ITEMS: 
+Contains details regarding the particular medicines sold during each sale. It keeps track of the sale invoice number, the medicine ID, the quantity of that medicine purchased and total cost for that particular sale.
+
+# ADMIN: 
+Contains the employee ID, the username and password for the Admin. Only a single record exists. Admin capabilities can be implemented only by this login.
+
+# EMPLOGIN: 
+Contains the employee ID, the employee username and password for all the pharmacists and managers, apart from Admin. Pharmacist capabilities can be implemented by using any of the login details in the table.
+
+# ER Diagram
+![Image](https://github.com/user-attachments/assets/76755e83-de4e-44ff-a1e6-291846e1cfc6) 
+
+# Relational Database Model
+![Image](https://github.com/user-attachments/assets/4d747c06-7246-40b2-b419-cbeba524f4a5) 
