@@ -56,4 +56,19 @@ The system is developed for use by either the Admin or Pharmacists.
 Admin Login Page
 ![Image](https://github.com/user-attachments/assets/06b96d71-e8cf-43ea-8c0d-203f67411c7c) 
 
+Admin DashBoard
+![Image](https://github.com/user-attachments/assets/4de9bfce-7c0b-454d-b865-65542cb80028) 
+
+Pharmacist Capabilities:
+* View the inventory of medicines, their price, quantity and other details – no changes are allowed from a pharmacist point of view
+* View minimal details regarding existing customers
+* Add a new customer to their database
+* Make a new sale and register the sale details onto the database
+
+# Screenshots
+Pharmacist Login Page
+![Image](https://github.com/user-attachments/assets/5f8ae6cf-0fef-4e7a-8de8-3d00c5e8b819) 
+
+Pharmacist DashBoard
+![Image](https://github.com/user-attachments/assets/8844753f-83fb-45a2-b649-1c3565f638bd) 
 
